@@ -1,4 +1,4 @@
 # DeepL 
-A JS, PHP and MySQL based script to create translations using DeepL API, write them to a database and use them directly from the database without the need to reuse the API.
+JS and PHP script to create translations of your web sites using DeepL API, write them to a database and use them directly from the database without having to reuse the API. P.S. You must add a .deepl class for your elements containing text <div>, <span>, etc.
 
 ![Screenshot](https://github.com/serhii-deineko/deepl/raw/main/screenshot.png)
